@@ -10,5 +10,6 @@ namespace Component1
     /// </summary>
     public class Class1
     {
+         // bug fixed
     }
 }

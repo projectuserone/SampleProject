@@ -16,6 +16,8 @@ namespace HelloWorld
             Console.WriteLine("Hello world");
             Console.Read();
 
+             // bug fixed
+
         }
     }
 }
