@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Component2
 {
+    /// <summary>
+    /// Component updated
+    /// </summary>
     public class Class1
     {
     }
