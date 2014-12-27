@@ -10,5 +10,6 @@ namespace Component2
     /// </summary>
     public class Class1
     {
+        // code added by project user one
     }
 }
