@@ -11,5 +11,6 @@ namespace Component2
     public class Class1
     {
         // code added by project user one
+        // update from vs 2013
     }
 }
